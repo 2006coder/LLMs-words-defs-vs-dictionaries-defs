@@ -30,9 +30,7 @@ To investigate whether AI-generated definitions mimic dictionary definitions or 
 3. Set up API keys (if required) for language models like ChatGPT, Gemini, etc.
 
 ## Create an evaluation for your own: 
-<p align="justify">
 1. Prepare the list of words you wish to analyze.
 2. Run the script to collect definitions from LLMs and dictionaries. You can split the 10000.csv into smaller .csv files and run the script simultaneously.
 3. Convert the definitions into vectors using the provided script.
 4. Perform the similarity analysis and view the results in the output report.
-</p>
