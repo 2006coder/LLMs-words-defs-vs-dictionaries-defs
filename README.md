@@ -1,6 +1,8 @@
-<h>Language models' definitions vs dictionaries' ones</h>
-<p></p>
-<p></p>
+# Language models' definitions vs dictionaries' ones
+<p> 
+</p>
+<p> 
+</p>
 ## Project Overview
 
 This project compares the originality of the definitions generated in large language models, including ChatGPT, Gemini, and Bard, against established dictionary definitions, including WordNet, Merriam-Webster, and dictionary.com. This will help detect possible plagiarism by comparing the similarities in AI-generated definitions with those from reputable dictionaries.
