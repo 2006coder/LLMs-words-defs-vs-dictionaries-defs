@@ -35,3 +35,8 @@ To investigate whether AI-generated definitions mimic dictionary definitions or 
 2. Run the script to collect definitions from LLMs and dictionaries. You can split the 10000.csv into smaller .csv files and run the script simultaneously.
 3. Convert the definitions into vectors using the provided script.
 4. Perform the similarity analysis and view the results in the output report.
+
+## Todo list:
+
+[ ] 1. Get the definitions from mentioned dictionaries.
+[ ] 2. Conclusion
