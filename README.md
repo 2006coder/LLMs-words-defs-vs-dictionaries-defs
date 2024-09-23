@@ -9,7 +9,6 @@ This project compares the originality of the definitions generated in large lang
 To investigate whether AI-generated definitions mimic dictionary definitions or offer original content. This is achieved by transforming definitions into vectors and comparing them using computational techniques to detect similarities.
 
 ## Method
-
 ![](https://github.com/2006coder/LMs-words-defs-vs-dictionaries-defs/visualization1.gif)
 
 - Collect definitions for 10,000 common English words from some large language models (chatGPT, Gemini, etc).
