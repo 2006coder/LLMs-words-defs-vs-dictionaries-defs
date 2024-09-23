@@ -9,13 +9,13 @@ This project compares the originality of the definitions generated in large lang
 To investigate whether AI-generated definitions mimic dictionary definitions or offer original content. This is achieved by transforming definitions into vectors and comparing them using the sentence_transformers library to detect similarities.
 
 ## Method
-
+<p align="justify">
 - Collect definitions for 10,000 common English words from some large language models (chatGPT, Gemini, etc).
 - Gather definitions from trusted dictionaries (WordNet, Merriam-Webster dictionary, and dictionary.com).
 - Convert the definitions into vectors or embeddings for comparison using 2 models from the sentence_transformers library: all-mpnet-base-v2 and bert-base-nli-mean-tokens.
 - Evaluate potential plagiarism by measuring vector similarities between AI and dictionary definitions using the k-nearest neighbors (knn) algorithm.
 - Provide statistics and plots to illustrate model performance in maintaining originality.
-
+</p>
 
 ## Installation
 
