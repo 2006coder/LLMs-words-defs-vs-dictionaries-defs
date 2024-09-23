@@ -38,5 +38,5 @@ To investigate whether AI-generated definitions mimic dictionary definitions or 
 
 ## Todo list:
 
-[ ] 1. Get the definitions from mentioned dictionaries.
-[ ] 2. Conclusion
+- [ ] 1. Get the definitions from mentioned dictionaries.
+- [ ] 2. Conclusion
