@@ -1,8 +1,8 @@
-# Language models' definitions for words vs dictionaries' ones
+# Language models' definitions vs dictionaries' ones
 
 ## Project Overview
 
-This project compares the originality of the definitions generated in large language models, including ChatGPT, Gemini, and Bard, against established dictionary definitions, including WordNet, Merriam-Webster dictionary, and dictionary.com. This will help detect possible plagiarism by comparing the similarities in AI-generated definitions with those from reputable dictionaries.
+This project compares the originality of the definitions generated in large language models, including ChatGPT, Gemini, and Bard, against established dictionary definitions, including WordNet, Merriam-Webster, and dictionary.com. This will help detect possible plagiarism by comparing the similarities in AI-generated definitions with those from reputable dictionaries.
 
 ## Objective
 
@@ -10,7 +10,9 @@ To investigate whether AI-generated definitions mimic dictionary definitions or 
 
 ## Method
 
-- Collect definitions for a list of 10,000 common English words from some large language models (chatGPT, Gemini, etc).
+![](https://github.com/2006coder/LMs-words-defs-vs-dictionaries-defs/visualization1.gif)
+
+- Collect definitions for 10,000 common English words from some large language models (chatGPT, Gemini, etc).
 - Gather definitions from trusted dictionaries (WordNet, Merriam-Webster dictionary, and dictionary.com).
 - Convert the definitions into vectors or embeddings for comparison.
 - Evaluate potential plagiarism by measuring vector similarities between AI and dictionary definitions using the k-nearest neighbors (knn) algorithm.
