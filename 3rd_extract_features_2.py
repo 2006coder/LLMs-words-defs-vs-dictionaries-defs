@@ -5,7 +5,6 @@ import csv
 mpnet_model = SentenceTransformer('bert-base-nli-mean-tokens')
 vectors_from_texts = []
 
-
 #open the csv file
 with open('10000.csv', mode='r', newline='') as infile:
     reader = csv.reader(infile)
