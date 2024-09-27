@@ -2,7 +2,7 @@
 ## Project Overview
 ![](https://github.com/2006coder/LMs-words-defs-vs-dictionaries-defs/blob/main/visualization1.gif)
 
-This project compares the originality of the definitions generated in large language models, including ChatGPT, Gemini, and Bard, against established dictionary definitions, including WordNet, Merriam-Webster, and dictionary.com. This will help detect possible plagiarism by comparing the similarities in AI-generated definitions with those from reputable dictionaries.
+This project compares the originality of the definitions generated in large language models, including ChatGPT, Gemini, and Meta AI, against established dictionary definitions, including WordNet, Merriam-Webster, and dictionary.com. This will help detect possible plagiarism by comparing the similarities in AI-generated definitions with those from reputable dictionaries.
 
 ## Objective
 
